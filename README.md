@@ -6,5 +6,6 @@
     + Swiperjs: https://swiperjs.com/
 - Use icon: 
     + RemixIcon: https://remixicon.com/
+- Deploy: https://laughing-yalow-f5f24d.netlify.app/
 
 Happy coding!
